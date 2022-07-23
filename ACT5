@@ -1,0 +1,470 @@
+<!DOCTYPE html>
+<html>
+<link rel="stylesheet" href="act5.css">
+
+ <header>
+ 	<h1><center>MENU</center></h1>
+ 	<a href="activity5.html"><img src="https://cdn-icons-png.flaticon.com/512/25/25694.png"style="width:60px;height:60px;"></a>
+ <a href="activity5.html"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Back_Arrow.svg/1200px-Back_Arrow.svg.png"style="width:60px;height:70px;"></a>
+ </header>
+<body>
+<center><a href="profiles.html"><img src="https://cdn-icons-png.flaticon.com/512/146/146016.png"style="width:100px;height:100px; " ></a><div class="p1"> <b>USERS INFORMATION</b><br><br><i><p>Information user means a person in our records designated by an owner to access information about the used by the owner.</p></i></div></center>
+
+<center><a href="favorites.html"><img src="https://icon-library.com/images/favorite-icon/favorite-icon-14.jpg"style="width:100px;height:100px;" ></a><div class="p1"><b>FAVORITES</b><br><br><i><p>Record the address of a website or other data to enable quick access in future.</p></i></div></center>
+
+<center><a href="family.html"><img src="https://cdn-icons-png.flaticon.com/512/3884/3884982.png"style="width:100px;height:100px; " ></a><div class="p1"> <b>FAMILY</b><br><br><i><p>A group of one or more parents and their children living together as a unit.</p></i></div></center>
+
+</body>
+</html>
+
+body{
+     background-image: url("https://cdnb.artstation.com/p/assets/images/images/003/496/025/large/kailah-valentine-pastelgalaxyedit3.jpg?1474340178");
+    color: purple;
+
+}
+h1{
+         background-image: url("https://cdnb.artstation.com/p/assets/images/images/003/496/025/large/kailah-valentine-pastelgalaxyedit3.jpg?1474340178");
+    color: black;
+
+
+}
+
+p{
+     background-image:url("https://cdnb.artstation.com/p/assets/images/images/003/496/025/large/kailah-valentine-pastelgalaxyedit3.jpg?1474340178");
+    font-size: x-large;
+
+}
+
+body{
+   background-image: url("https://cdnb.artstation.com/p/assets/images/images/003/496/025/large/kailah-valentine-pastelgalaxyedit3.jpg?1474340178");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+table, td {
+
+    background-image: url("https://digitalsynopsis.com/wp-content/uploads/2017/02/beautiful-color-gradients-backgrounds-158-angel-care.png");
+      border: 5px solid black;
+      border-collapse: collapse;}
+     table {border-spacing: 10px;}
+     td {
+      padding: 10px;
+    }
+    
+    #b2 {
+    position: absolute;
+    top: 100px;
+    left: 1000px;
+    height: 100px;
+    width: 100px;}
+
+    h1{background-color: salmon; font-family: Times New Roman; font-size: 40px;}
+    h2{background-color: salmon; font-family: Times New Roman; font-size: 35px;}
+
+<!DOCTYPE html>
+<html>
+<title>WEBPAGE</title>
+<link rel="stylesheet" href="act5.css">
+
+<head><h1><center>ACTIVITY # 5</center></h1></head>
+ <header>
+ 	
+<a href="activity5.html"><http://iconbug.com/download/size/128/icon/6329/small-home/"style="width:80px;height:80px;" ></a>
+<a href="aboutx.html"><img src="https://cdn.icon-icons.com/icons2/916/PNG/512/Menu_icon_icon-icons.com_71858.png"style="width:80px;height:80px;" ></a>
+                    
+<body>
+
+<center><a href="https://www.twitter.com/"target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/124/124021.png"style="width:120px;height:120px;" ></a><div class="p1"><br><i><p>Search for information about (someone or something) on the internet using the search engine Google.</p></i></div></center>
+
+<center><a href="https://www.tiktok.com/"target="_blank"><img src="https://www.freepnglogos.com/uploads/tik-tok-logo-png/tik-tok-april-tutuapp-5.png"style="width:120px;height:120px;" ></a><br><div class="p1"><i><p> Google's very popular, free Web-based email service, which is supported by advertising similar to Google's Web search.</p></i></div></center>
+
+<center><a href="https://www.facebook.com/"target="_blank"><img src="https://seeklogo.com/images/F/facebook-icon-circle-logo-09F32F61FF-seeklogo.com.png"style="width:120px;height:120px;"></a><div class="p1"><p><i>The official stated purpose of Facebook is to make the world more open and connected. Facebook's latest mission statement is that people use Facebook to stay connected with friends and family, discover what's going on in the world and share and express what matters to them. </i></p></div></center>
+
+<center><a href="https://www.youtube.com/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png"style="width:120px;height:120px;"></a><div class="p1"><p><i>YouTube is a video sharing service that allows users to watch videos posted by other users and upload videos of their own.</i></p></div></center>
+
+<center><a href="https://www.instagram.com/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png"style="width:120;height:120px;"></a><div class="p1"><p><i> Instagram is an online photo sharing service. It allows you to apply different types of photo filters to your pictures with a single click, then share them with others.</i></p></div><br><br></center>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<link rel="stylesheet" href="act5.css">
+
+ <header>
+ 	<h1><center>MY FAMILY</center></h1>
+ 	<a href="activity5.html"><img src="https://cdn-icons-png.flaticon.com/512/25/25694.png"style="width:60px;height:60px;"></a>
+ <a href="activity5.html"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Back_Arrow.svg/1200px-Back_Arrow.svg.png"style="width:60px;height:70px;"></a>
+
+ <a href="first.html">;
+  
+<body>
+ </header>
+ <h2><center>ALPECHE,AURILLA S. </center></h2>
+<body>
+ <div>
+</div>
+	<div id="b2"><img src=""style="width:150px;height:180px;" ></div>
+
+<right><table style="width:80%">
+
+  <a href="second.html">;
+  <div>
+</div>
+<body>
+ </header>
+ <h2><center>ALPECHE,JIMMY S. </center></h2>
+<body>
+	<div id="b2"><img src=""style="width:200px;height:200px;" ></div>
+
+<right><table style="width:80%">
+
+  <a href="third.html">;
+  <div>
+</div>
+<body>
+ </header>
+ <h2><center>ALPECHE,JOENALYN S. </center></h2>
+<body>
+	<div id="b2"><img src=""style="width:200px;height:200px;" ></div>
+
+<right><table style="width:80%">
+
+  <a href="fourth.html">;
+  <div>
+</div>
+<body>
+ </header>
+ <h2><center>ALPECHE,JEMAICA S. </center></h2>
+<body>
+	<div id="b2"><img src=""style="width:200px;height:200px;" ></div>
+
+<right><table style="width:80%">
+
+  <a href="fifth.html">;
+  <div>
+</div>
+<body>
+ </header>
+ <h2><center>ALPECHE,JUZTINE KAYE S. </center></h2>
+<body>
+	<div id="b2"><img src=""style="width:200px;height:200px;" ></div>
+
+<right><table style="width:80%">
+
+  </tr>
+</table></center>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+
+<link rel="stylesheet" href="act5.css">
+
+ <header>
+ 	<h1><center>FAVORITES</center></h1>
+ 	<a href="activity5.html"><img src="https://cdn-icons-png.flaticon.com/512/25/25694.png"style="width:60px;height:60px;"></a>
+ <a href="aboutx.html"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Back_Arrow.svg/1200px-Back_Arrow.svg.png"style="width:60px;height:70px;"></a>
+ </header>
+ 
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<link rel="stylesheet" href="act5.css">
+
+ <header>
+ 	<h1><center>FAMILY</center></h1>
+ 	<a href="activity5.html"><img src="https://cdn-icons-png.flaticon.com/512/25/25694.png"style="width:60px;height:60px;"></a>
+ <a href="family.html"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Back_Arrow.svg/1200px-Back_Arrow.svg.png"style="width:60px;height:70px;"></a>
+ </header>
+ <h2><center>ALPECHE,JUZTINE KAYE S. </center></h2>
+<body>
+	<div id="b2"><img src="https://scontent.fmnl17-4.fna.fbcdn.net/v/t1.15752-9/280738092_314349514209524_3979151791460711154_n.png?_nc_cat=105&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeHpeIr1uRp0OQELPWPKlI2hGY97n_rvzIgZj3uf-u_MiHCIqGtOSDI41POLIx5fU86QDTgmieloS2XZAzvjIOIU&_nc_ohc=qOGekd_s4yYAX-h4eJI&_nc_ht=scontent.fmnl17-4.fna&oh=03_AVJlzJmhvzs19nil31B8eho7Dt5MTL8SNeOczUUdBm74Ag&oe=63020B80"style="width:110px;height:160px;" ></div><center><table style="width:100%;">
+  
+  <tr>
+    <td><center>PLACE OF BIRTH </center></td>
+   
+
+   <td><center>QUEZON CITY </center></td>
+   
+  </tr>
+  <tr>
+    <td><center>CIVIL STATUS </center></td>
+    <td><center>SINGLE </center></td>
+
+  </tr>
+  <tr>
+    <td><center>RELIGION </center></td>
+    <td><center>CATHOLIC </center></td>
+   
+  </tr>
+
+  <tr>
+    <td><center>CITIZENSHIP </center></td>
+    <td><center>FILIPINO</center></td>
+   
+  </tr>
+  <tr>
+    <td><center>HEIGHT </center></td>
+    <td><center>5'0 </center></td>
+   
+  </tr>
+</table></center>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<link rel="stylesheet" href="act5.css">
+
+ <header>
+ 	<h1><center>FAMILY</center></h1>
+ 	<a href="activity5.html"><img src="https://cdn-icons-png.flaticon.com/512/25/25694.png"style="width:60px;height:60px;"></a>
+ <a href="family.html"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Back_Arrow.svg/1200px-Back_Arrow.svg.png"style="width:60px;height:70px;"></a>
+ </header>
+ <h2><center>ALPECHE,AURILLA S. </center></h2>
+<body>
+	<div id="b2"><img src="https://scontent.fmnl17-2.fna.fbcdn.net/v/t1.15752-9/279792845_292061299688015_4469244503876996710_n.png?_nc_cat=107&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeGQI6sEVvPXqcMrpzjqlUQsxXk6xuCXxubFeTrG4JfG5ntzHW7QZmtGlmJKfddriZgPafjVmHFxqzM8sqwWc54M&_nc_ohc=inEoAmVr1mMAX8cJo-F&_nc_ht=scontent.fmnl17-2.fna&oh=03_AVIvmcgRDnGZ91U3JTfN2sDpRgQ8blBp1g-qKGY-w5cLzg&oe=6301D516"style="width:100px;height:170px;" ></div><center><table style="width:100%;">
+  
+  <tr>
+    <td><center>PLACE OF BIRTH </center></td>
+   
+
+   <td><center>BALAYONG NEGROS ORIENTAL </center></td>
+   
+  </tr>
+  <tr>
+    <td><center>CIVIL STATUS </center></td>
+    <td><center>SINGLE </center></td>
+
+  </tr>
+  <tr>
+    <td><center>RELIGION </center></td>
+    <td><center>CATHOLIC </center></td>
+   
+  </tr>
+
+  <tr>
+    <td><center>CITIZENSHIP </center></td>
+    <td><center>FILIPINO</center></td>
+   
+  </tr>
+  <tr>
+    <td><center>HEIGHT </center></td>
+    <td><center>5’0 </center></td>
+   
+  </tr>
+</table></center>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<link rel="stylesheet" href="act5.css">
+
+ <header>
+ 	<h1><center>FAMILY</center></h1>
+ 	<a href="activity5.html"><img src="https://cdn-icons-png.flaticon.com/512/25/25694.png"style="width:60px;height:60px;"></a>
+ <a href="family.html"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Back_Arrow.svg/1200px-Back_Arrow.svg.png"style="width:60px;height:70px;"></a>
+ </header>
+ <h2><center>ALPECHE,JEMAICA S. </center></h2>
+<body>
+	<div id="b2"><img src="https://scontent.fmnl17-3.fna.fbcdn.net/v/t1.15752-9/279217539_768484327854467_5828808733084162440_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeEw6KumtT0DqPBd0ZRqyhEWUHFI_j-9ButQcUj-P70G65gdINl8ZzuuBDFgK_ApT_OGds3zkjONIPrU7JT3T_Lz&_nc_ohc=jYN-I0Z-YpkAX--bwwz&_nc_ht=scontent.fmnl17-3.fna&oh=03_AVLVXVl-5LGkQt4ekOrvdZMXEHALjDEoen45vnH51uxSIA&oe=63008346"style="width:130px;height:170px;" ></div><center><table style="width:100%;">
+  
+  <tr>
+    <td><center>PLACE OF BIRTH </center></td>
+   
+
+   <td><center>QUEZON CITY </center></td>
+   
+  </tr>
+  <tr>
+    <td><center>CIVIL STATUS </center></td>
+    <td><center>SINGLE </center></td>
+
+  </tr>
+  <tr>
+    <td><center>RELIGION </center></td>
+    <td><center>CATHOLIC </center></td>
+   
+  </tr>
+
+  <tr>
+    <td><center>CITIZENSHIP </center></td>
+    <td><center>FILIPINO</center></td>
+   
+  </tr>
+  <tr>
+    <td><center>HEIGHT </center></td>
+    <td><center>4’11 </center></td>
+   
+  </tr>
+</table></center>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<link rel="stylesheet" href="act5.css">
+
+ <header>
+ 	<h1><center>USER INFORMATION</center></h1>
+ 	<a href="activity5.html"><img src="https://cdn-icons-png.flaticon.com/512/25/25694.png"style="width:60px;height:60px;"></a>
+ <a href="aboutx.html"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Back_Arrow.svg/1200px-Back_Arrow.svg.png"style="width:60px;height:70px;"></a>
+ </header>
+ <h2><center>ALPECHE,JEMAICA S. </center></h2>
+<body>
+	<div id="b2"><img src="https://scontent.fmnl17-3.fna.fbcdn.net/v/t1.15752-9/279217539_768484327854467_5828808733084162440_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeEw6KumtT0DqPBd0ZRqyhEWUHFI_j-9ButQcUj-P70G65gdINl8ZzuuBDFgK_ApT_OGds3zkjONIPrU7JT3T_Lz&_nc_ohc=jYN-I0Z-YpkAX--bwwz&_nc_ht=scontent.fmnl17-3.fna&oh=03_AVLVXVl-5LGkQt4ekOrvdZMXEHALjDEoen45vnH51uxSIA&oe=63008346"style="width:130px;height:170px;" ></div><center><table style="width:100%">
+  
+  <tr>
+    <td><center>PLACE OF BIRTH </center></td>
+   
+
+   <td><center>QUEZON CITY </center></td>
+   
+  </tr>
+  <tr>
+    <td><center>CIVIL STATUS </center></td>
+    <td><center>SINGLE </center></td>
+
+  </tr>
+  <tr>
+    <td><center>RELIGION </center></td>
+    <td><center>CATHOLIC </center></td>
+   
+  </tr>
+
+  <tr>
+    <td><center>CITIZENSHIP </center></td>
+    <td><center>FILIPINO</center></td>
+   
+  </tr>
+  <tr>
+    <td><center>HEIGHT </center></td>
+    <td><center>4’11 </center></td>
+   
+  </tr>
+</table></center>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<link rel="stylesheet" href="act5.css">
+
+ <header>
+ 	<h1><center>FAMILY</center></h1>
+ 	<a href="activity5.html"><img src="https://cdn-icons-png.flaticon.com/512/25/25694.png"style="width:60px;height:60px;"></a>
+ <a href="family.html"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Back_Arrow.svg/1200px-Back_Arrow.svg.png"style="width:60px;height:70px;"></a>
+ </header>
+ <h2><center>ALPECHE,JIMMY M. </center></h2>
+<body>
+	<div id="b2"><img src="https://scontent.fmnl17-4.fna.fbcdn.net/v/t1.15752-9/279396613_721681265617341_3171398094682318839_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeHm8OK4QH0S3wQE84KRn0RykR1fMx1YqEWRHV8zHVioRUu_4i4tnr-Nmp42plD3oVVBboNyfif7V7ID4fZsBWK4&_nc_ohc=7Fu-q_Z5GXoAX_3Akzp&_nc_ht=scontent.fmnl17-4.fna&oh=03_AVLEZjDAHOb_2uX_OOmaf-AZgBiZRedPT0z5NUbjtD9fUw&oe=63023553"style="width:120px;height:160px;" ></div><center><table style="width:100%;">
+  
+  <tr>
+    <td><center>PLACE OF BIRTH </center></td>
+   
+
+   <td><center>SAN CARLOS PAMPLONA NEGROS OCCIDENTAL</center></td>
+   
+  </tr>
+  <tr>
+    <td><center>CIVIL STATUS </center></td>
+    <td><center>SINGLE </center></td>
+
+  </tr>
+  <tr>
+    <td><center>RELIGION </center></td>
+    <td><center>CATHOLIC </center></td>
+   
+  </tr>
+
+  <tr>
+    <td><center>CITIZENSHIP </center></td>
+    <td><center>FILIPINO</center></td>
+   
+  </tr>
+  <tr>
+    <td><center>HEIGHT </center></td>
+    <td><center>5'2</center></td>
+   
+  </tr>
+</table></center>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<link rel="stylesheet" href="act5.css">
+
+ <header>
+ 	<h1><center>FAMILY</center></h1>
+ 	<a href="activity5.html"><img src="https://cdn-icons-png.flaticon.com/512/25/25694.png"style="width:60px;height:60px;"></a>
+ <a href="family.html"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Back_Arrow.svg/1200px-Back_Arrow.svg.png"style="width:60px;height:70px;"></a>
+ </header>
+ <h2><center>ALPECHE,JOENALYN S. </center></h2>
+<body>
+	<div id="b2"><img src="https://scontent.fmnl17-5.fna.fbcdn.net/v/t1.15752-9/280401091_719179879392618_3400872184193007904_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeEDXgDvsJKumQQmxWGvzHQnMX1rFnRxwQoxfWsWdHHBCtiyDt2wJJZ_ANGvoq6Ja_K6nadxy3BlNTyAdkDWNhuB&_nc_ohc=zsNmAh_yqDoAX8Rd_rD&_nc_ht=scontent.fmnl17-5.fna&oh=03_AVISiZF68rKNDQC24Wumg7N729QIHTLYKbVpQ9UfEnS3Og&oe=6301014D"style="width:150px;height:170px;" ></div><center><table style="width:100%;">
+  
+  <tr>
+    <td><center>PLACE OF BIRTH </center></td>
+   
+
+   <td><center>QUEZON CITY </center></td>
+   
+  </tr>
+  <tr>
+    <td><center>CIVIL STATUS </center></td>
+    <td><center>SINGLE </center></td>
+
+  </tr>
+  <tr>
+    <td><center>RELIGION </center></td>
+    <td><center>CATHOLIC </center></td>
+   
+  </tr>
+
+  <tr>
+    <td><center>CITIZENSHIP </center></td>
+    <td><center>FILIPINO</center></td>
+   
+  </tr>
+  <tr>
+    <td><center>HEIGHT </center></td>
+    <td><center>5’0 </center></td>
+   
+  </tr>
+</table></center>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
